@@ -95,6 +95,8 @@ html{
     box-sizing: border-box;
     padding: 20px;
     margin-bottom: 50px;
+    background-color: black;
+    color: white;
 }
 #pic{
     display: flex;
